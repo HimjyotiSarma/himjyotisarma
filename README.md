@@ -39,7 +39,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=himjyotisarma&show_icons=true&theme=radical" alt="himjyotisarma stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himjyotisarma&theme=radical" alt="himjyotisarma streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=himjyotisarma&theme=radical" alt="profile trophies"/>
 </p>
 
 ---
