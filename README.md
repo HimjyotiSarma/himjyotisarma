@@ -24,14 +24,6 @@
 // Tools & Others
 [Git, Docker, Linux, Sublime Text, MSYS2, Postman]
 ```
-
----
-
-### 🚀 Some Projects
-- 🎸 **Music Inventory App** – FastAPI + Vue 3
-- 🔐 **Auth System** – FastAPI + JWT + PostgreSQL
-- 🧠 **LeetCode Tracker** – Java + DSA
-
 ---
 
 ### 📊 GitHub Stats
