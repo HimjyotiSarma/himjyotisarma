@@ -5,7 +5,7 @@
 - 👨‍💻 I’ve worked on **end-to-end fullstack projects** with real-world use cases  
 - 💬 Ask me about **React, Vue.js, FastAPI, Node.js, Golang, PostgreSQL, MySQL, MongoDB, WebSockets, Redis**  
 - 📫 Reach me at: [himjyotisarma.dev@gmail.com](mailto:himjyotisarma.dev@gmail.com)  
-- ⚡ Fun fact: I love solving tough backend problems and optimizing workflows.  
+- ⚡ Fun fact: I love solving tough backend problems and automating repetitive tasks.  
 
 ---
 
@@ -25,17 +25,20 @@
 [WebSockets, Socket.IO, RabbitMQ]
 
 // DevOps & Tools
-[Docker, Git, Linux, AWS (EC2, S3, Lambda), Postman, MSYS2]
+[Docker, Git, Linux, AWS (EC2, S3, Lambda), GCP, Postman, MSYS2]
 ```
 
 ---
 
 ### 📌 Projects & Work
 
-- **DXF Parser App** → Parsed and stored DXF files in a database, extracted layers & entities, and generated SVG thumbnails for previews.  
-- **Real-time Messaging App** → Built a chat system like Messenger using WebSockets + Redis with reliable event delivery.  
-- **Inventory Management App (Music Instruments)** → Full CRUD system with JWT-based authentication and Dockerized deployment.  
-- **Event Management System** → Designed for managing events with scheduling, participant tracking, and scalable backend architecture.  
+- **Event Management System** → Built a system to manage events with scheduling, participant tracking, ticketing, payment integration, notifications, and a scalable backend architecture suitable for high concurrency and analytics.
+
+- **Real-time Messaging App** → Implemented a chat application (Messenger-like) using WebSockets and Redis for pub/sub and persistence. Focus areas: reliable event delivery, offset tracking, message persistence, typing indicators, and presence management.
+
+- **Pizza Store Management & Ordering App** → End-to-end pizza store platform with menu & inventory management, order lifecycle, cart and checkout flow, online payment integration, admin dashboard, and JWT-based authentication. Dockerized for easy deployment.
+
+- **DXF Parser App** → Parsed DXF files, extracted layers & entities, stored geometry and metadata in a database, and generated SVG thumbnails for previews and quick rendering.
 
 ---
 
