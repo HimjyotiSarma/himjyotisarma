@@ -1,29 +1,42 @@
 <h1 align="center">Hi 👋, I'm Himjyoti Sarma</h1>
-<h3 align="center">A Fullstack Developer from Assam, India 🇮🇳</h3>
+<h3 align="center">Fullstack Developer | Focused on Building Scalable and Real-time Applications</h3>
 
-- 🌱 I’m learning more about **System Design**, **DevOps**, and **Scalable Architectures**  
-- 👨‍💻 I actively solve problems on **LeetCode** and build **fullstack projects**  
-- 💬 Ask me about **React, Vue.js, FastAPI, Node.js, PostgreSQL, MySQL, MongoDB, REST APIs, JWT, and Auth**  
-- 📫 How to reach me: [himjyotisarma.dev@gmail.com](mailto:himjyotisarma.dev@gmail.com)  
-- ⚡ Fun fact: I love working with both frontend and backend, and I automate anything boring.
+- 🌱 Learning more about **System Design, Distributed Systems, and Cloud Architectures**  
+- 👨‍💻 I’ve worked on **end-to-end fullstack projects** with real-world use cases  
+- 💬 Ask me about **React, Vue.js, FastAPI, Node.js, Golang, PostgreSQL, MySQL, MongoDB, WebSockets, Redis**  
+- 📫 Reach me at: [himjyotisarma.dev@gmail.com](mailto:himjyotisarma.dev@gmail.com)  
+- ⚡ Fun fact: I love solving tough backend problems and optimizing workflows.  
 
 ---
 
 ### 🛠️ Tech Stack
 
 ```ts
-// Frontend
-[React, Vue.js, JavaScript, HTML5, CSS3, TailwindCSS]
+// Languages & Frontend
+[JavaScript, Golang, React, Vue.js, HTML5, CSS3, TailwindCSS]
 
 // Backend
 [FastAPI, Node.js, Express.js]
 
 // Databases
-[PostgreSQL, MySQL, MongoDB]
+[PostgreSQL, MySQL, MongoDB, Redis]
 
-// Tools & Others
-[Git, Docker, Linux, Sublime Text, MSYS2, Postman]
+// Real-time & Messaging
+[WebSockets, Socket.IO, RabbitMQ]
+
+// DevOps & Tools
+[Docker, Git, Linux, AWS (EC2, S3, Lambda), Postman, MSYS2]
 ```
+
+---
+
+### 📌 Projects & Work
+
+- **DXF Parser App** → Parsed and stored DXF files in a database, extracted layers & entities, and generated SVG thumbnails for previews.  
+- **Real-time Messaging App** → Built a chat system like Messenger using WebSockets + Redis with reliable event delivery.  
+- **Inventory Management App (Music Instruments)** → Full CRUD system with JWT-based authentication and Dockerized deployment.  
+- **Event Management System** → Designed for managing events with scheduling, participant tracking, and scalable backend architecture.  
+
 ---
 
 ### 📊 GitHub Stats
