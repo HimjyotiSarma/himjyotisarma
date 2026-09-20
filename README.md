@@ -1,60 +1,117 @@
-<h1 align="center">Hi 👋, I'm Himjyoti Sarma</h1>
-<h3 align="center">Fullstack Developer | Focused on Building Scalable and Real-time Applications</h3>
+# Hi 👋, I'm Himjyoti Sarma
 
-- 🌱 Learning more about **System Design, Distributed Systems, and Cloud Architectures**  
-- 👨‍💻 I’ve worked on **end-to-end fullstack projects** with real-world use cases  
-- 💬 Ask me about **React, Vue.js, FastAPI, Node.js, Golang, PostgreSQL, MySQL, MongoDB, WebSockets, Redis**  
-- 📫 Reach me at: [himjyotisarma.dev@gmail.com](mailto:himjyotisarma.dev@gmail.com)  
-- ⚡ Fun fact: I love solving tough backend problems and automating repetitive tasks.  
+### Full-Stack Engineer building scalable web applications, APIs, and real-time systems.
 
----
+I’m a Full-Stack Engineer with 3+ years of hands-on experience building web applications across backend, frontend, databases, and cloud infrastructure.
 
-### 🛠️ Tech Stack
+My primary focus is building maintainable backend systems with **Laravel and PHP**, modern web interfaces with **Next.js and React**, and service-oriented applications with **Node.js and TypeScript**.
 
-```ts
-// Languages & Frontend
-[JavaScript, Golang, React, Vue.js, HTML5, CSS3, TailwindCSS]
-
-// Backend
-[FastAPI, Node.js, Express.js]
-
-// Databases
-[PostgreSQL, MySQL, MongoDB, Redis]
-
-// Real-time & Messaging
-[WebSockets, Socket.IO, RabbitMQ]
-
-// DevOps & Tools
-[Docker, Git, Linux, AWS (EC2, S3, Lambda), GCP, Postman, MSYS2]
-```
+I enjoy working on systems where backend architecture, real-time communication, authentication, payments, databases, and deployment all come together.
 
 ---
 
-### 📌 Projects & Work
+## 🛠️ What I Work With
 
-- **Event Management System** → Built a system to manage events with scheduling, participant tracking, ticketing, payment integration, notifications, and a scalable backend architecture suitable for high concurrency and analytics.
+### Backend
 
-- **Real-time Messaging App** → Implemented a chat application (Messenger-like) using WebSockets and Redis for pub/sub and persistence. Focus areas: reliable event delivery, offset tracking, message persistence, typing indicators, and presence management.
+* Laravel / PHP
+* Node.js / TypeScript
+* REST APIs
+* OAuth / Laravel Passport
+* WebSockets / Socket.IO
+* Event-driven application architecture
 
-- **Pizza Store Management & Ordering App** → End-to-end pizza store platform with menu & inventory management, order lifecycle, cart and checkout flow, online payment integration, admin dashboard, and JWT-based authentication. Dockerized for easy deployment.
+### Frontend
 
-- **DXF Parser App** → Parsed DXF files, extracted layers & entities, stored geometry and metadata in a database, and generated SVG thumbnails for previews and quick rendering.
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+* Inertia.js
+* Livewire
+
+### Databases & Messaging
+
+* MySQL / MariaDB
+* PostgreSQL
+* Redis
+* RabbitMQ
+
+### Cloud & Infrastructure
+
+* AWS EC2
+* AWS ECS
+* Amazon RDS
+* Elastic Beanstalk
+* Route 53
+* Load Balancing & Auto Scaling
+* Docker / Docker Compose
+* Nginx
+* Linux
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Selected Work
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himjyotisarma&show_icons=true&theme=radical" alt="himjyotisarma stats" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=himjyotisarma&theme=radical" alt="profile trophies"/>
-</p>
+### 💬 Real-Time Messaging
+
+A real-time messaging system built around WebSocket communication, event-driven workflows, Redis, RabbitMQ, persistent message storage, reactions, attachments, and read tracking.
+
+**Focus:** real-time communication, distributed events, messaging architecture, and scalable backend design.
+
+🔗 [View project](https://github.com/HimjyotiSarma/Chat-Socket-App)
 
 ---
 
-### 🌐 Let's Connect
+### 🍕 Pizza Shop
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/himjyotisarma"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
-  <a href="mailto:himjyotisarma.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-</p>
+A full-stack application covering product and menu management, cart and checkout flows, orders, authentication, payment integration, and administrative functionality.
+
+**Focus:** API design, business logic, authentication, payments, database design, and containerized development.
+
+🔗 [View project](https://github.com/HimjyotiSarma/Pizza_Shop)
+
+---
+
+### 📱 Laravel + Next.js Application
+
+A modern full-stack application built with a Laravel backend and Next.js frontend, with authentication, API communication, real-time features, media handling, and structured domain logic.
+
+**Focus:** full-stack architecture, Laravel APIs, Next.js server/client boundaries, authentication flows, and real-time application design.
+
+---
+
+### 📐 DXF Processing
+
+A full-stack application for uploading and processing DXF/CAD files, extracting drawing information, and presenting structured geometry and metadata through a web interface.
+
+**Focus:** file processing, backend services, database design, and interactive frontend development.
+
+---
+
+## 🧠 Engineering Interests
+
+* System design and backend architecture
+* Distributed and event-driven systems
+* Real-time applications
+* Cloud deployment and infrastructure
+* Performance and scalability
+* API design and authentication
+* LLM application engineering and RAG
+
+---
+
+## 🔭 Currently Exploring
+
+I’m currently expanding my knowledge in **LLM application engineering, RAG, vector databases, and AI-powered applications**, with a focus on using existing models effectively rather than building models from scratch.
+
+---
+
+## 🤝 Connect With Me
+
+* 💼 LinkedIn: [linkedin.com/in/himjyoti-sarma-aa3b2719a](https://www.linkedin.com/in/himjyoti-sarma-aa3b2719a)
+* 📧 Email: [himjyotisarma.dev@gmail.com](mailto:himjyotisarma.dev@gmail.com)
+
+---
+
+> Building software, learning continuously, and turning complex requirements into practical systems.
